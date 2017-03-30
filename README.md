@@ -22,6 +22,10 @@ http://python-guide-pt-br.readthedocs.io/en/latest/starting/installation/
 $ sudo xcode-select --install
 ```
 
+# Install virtualenv
+
+Follow the instructions here: https://python-docs.readthedocs.io/en/latest/dev/virtualenvs.html
+
 # Create a virtualenv and install dependencies
 
 ```
