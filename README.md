@@ -1,4 +1,4 @@
-# 1. Install python3
+# Install python3
 
 To check whether you have python3 installed in your system use:
 
@@ -31,4 +31,8 @@ $ pip install -r requirements.txt
 ```
 The `requirements.txt` mentioned is the one in this repo.
 
-After that is installed you are good to go.
+After those are is installed you are good to go.
+
+If you'd like a quick check, follow these instructions on setting up a django project:
+https://docs.djangoproject.com/en/1.9/intro/tutorial01/#creating-a-project If you can run the development server and
+load the site on your browser you are good to go.
