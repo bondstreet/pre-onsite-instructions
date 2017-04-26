@@ -16,7 +16,7 @@ $ python --version
 If python3 is not installed on your system, follow the instructions here:
 http://python-guide-pt-br.readthedocs.io/en/latest/starting/installation/
 
-# Install XCode developer tools
+# Install XCode developer tools (Mac OS only)
 
 ```
 $ sudo xcode-select --install
